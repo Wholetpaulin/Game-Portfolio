@@ -3,7 +3,7 @@ This is a simple site that displays a list of all the games I've developed over 
 
 ### Instructions
 
-1. Click on the designated link:  https://wholetpaulin.github.io/Game-Portfolio/   (Wait for game to load up)
+1. Click on the designated link:  https://wholetpaulin.github.io/Game-Portfolio/  
 
 ### One More Thing
 
