@@ -13,4 +13,4 @@ If you have any questions about this project or the material, please feel free t
 
 ## Copyright
 
-Paul Trettenero (C) 2018. All Rights Reserved.
+Paul Trettenero (C) 2019. All Rights Reserved.
